@@ -1,0 +1,9 @@
+utilities\XLUtils.class
+testcase\BaseClass.class
+testcase\TC_LoginTest_001.class
+utilities\Reporting.class
+pageobjects\addCustomerPage.class
+pageobjects\LoginPage.class
+testcase\TC_AddCustommerTest_003.class
+testcase\TC_LoginTest_002.class
+utilities\ReadConfig.class

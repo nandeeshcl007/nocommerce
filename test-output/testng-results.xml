@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26882" started-at="2019-03-29T08:00:54Z" finished-at="2019-03-29T08:01:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26882" started-at="2019-03-29T08:00:54Z" finished-at="2019-03-29T08:01:21Z">
+      <class name="testcase.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testcase.TC_LoginTest_001@39c0f4a]" name="setup" is-config="true" duration-ms="5520" started-at="2019-03-29T13:30:55Z" finished-at="2019-03-29T13:31:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:testcase.TC_LoginTest_001@39c0f4a]" name="Login" duration-ms="20904" started-at="2019-03-29T13:31:00Z" finished-at="2019-03-29T13:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TC_LoginTest_001@39c0f4a]" name="tearDown" is-config="true" duration-ms="100" started-at="2019-03-29T13:31:21Z" finished-at="2019-03-29T13:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="captureScreen(org.testng.ITestResult)[pri:0, instance:testcase.TC_LoginTest_001@39c0f4a]" name="captureScreen" is-config="true" duration-ms="0" started-at="2019-03-29T13:31:21Z" finished-at="2019-03-29T13:31:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login status=SUCCESS method=TC_LoginTest_001.Login()[pri:0, instance:testcase.TC_LoginTest_001@39c0f4a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+      </class> <!-- testcase.TC_LoginTest_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
